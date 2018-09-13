@@ -1,1 +1,1 @@
-{ "users": [{ "email": abcd@gmail.com, "password": "1234" }, { "email": xyz@gmail.com, "password": "1234" }] }
+{ "users": [{ "email": "abcd@gmail.com", "password": "1234" }, { "email": "xyz@gmail.com", "password": "1234" }] }
